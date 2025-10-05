@@ -64,7 +64,7 @@ Below are the expected outputs and structure you would see in the Google Colab e
 
 ### 4.1. Data Sample and Distribution
 
-![Data Labels](target_categories.jpg)
+![Data Labels](target_categories.png)
 
 ### 4.2. TF-IDF + Logistic Regression Results
 
