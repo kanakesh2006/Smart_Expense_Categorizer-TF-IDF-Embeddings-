@@ -4,7 +4,7 @@
 
 ## 1\. Project Objective
 
-The primary goal of this project is to build a **Smart Expense Categorizer** using Natural Language Processing (NLP) techniques. The system automatically classifies short, cryptic transaction narratives (like SMS alerts or bank statement descriptions) into predefined expense categories.
+The primary goal of this project is to build a **Smart Expense Categorizer** using Natural Language Processing (NLP) techniques. The system automatically classifies shortnarratives (like SMS alerts or bank statement descriptions) into predefined expense categories.
 
 This project addresses a common challenge in personal finance tools: converting unstructured text data into structured, actionable categories for budgeting and analysis.
 
